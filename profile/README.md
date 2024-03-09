@@ -1,3 +1,3 @@
-# Gustav-Engine
+# Horizon Builder
 
-Attempt at a DnD 5e Character builder inspired by Aurora Builder.
+A DnD 5e Character builder inspired by Aurora Builder.
